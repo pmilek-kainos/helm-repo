@@ -1,8 +1,18 @@
 apiVersion: v1
 entries:
+  sample-cloud-connector:
+  - apiVersion: v1
+    created: 2019-04-11T15:52:10.58038+02:00
+    description: A Helm chart for Kubernetes
+    digest: d89a93d76c0b4f74d1797b0b8d72c1426785dc0530a7c08a437f11ab014c41c7
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: sample-cloud-connector
+    urls:
+    - https://pmilek-kainos.github.io/helm-repo/sample-cloud-connector-0.1.0.tgz
+    version: 0.1.0
   sample-runtime-bundle:
   - apiVersion: v1
-    created: 2019-04-11T12:18:18.833636+02:00
+    created: 2019-04-11T15:52:10.581456+02:00
     description: A Helm chart for Kubernetes
     digest: 7e67bab8da6b685b57d376e7c87255c7a7f368dbaa80c346de2f5742185e9805
     icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
@@ -10,4 +20,4 @@ entries:
     urls:
     - https://pmilek-kainos.github.io/helm-repo/sample-runtime-bundle-0.1.0.tgz
     version: 0.1.0
-generated: 2019-04-11T12:18:18.832847+02:00
+generated: 2019-04-11T15:52:10.578697+02:00
